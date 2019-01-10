@@ -4,6 +4,6 @@
 <title></title>
 </head>
 <body>
-<img src="ib.jpg">
+<img src="ib.jpg"/>
 </body>
 </html>
